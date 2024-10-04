@@ -1,4 +1,9 @@
 // SWAP TWO NUMBER WITHOUT USING TEMP VARIABLE
+/* 
+XOR OPERATION
+Same value = 0
+Different value = 1
+*/
 
 #include <stdio.h>
 
