@@ -1,3 +1,12 @@
+/*Selection Sort is a sorting algorithm that repeatedly finds the smallest(ascending) (or largest(descending)) element 
+from the unsorted part of the array and swaps it with the first unsorted element. 
+It continues this process until the entire array is sorted.
+
+TIME COMPLEXITY = O(n2)
+SPACE COMPLEXITY = O(1)
+*/
+
+
 #include <iostream>
 using namespace std;
 
