@@ -1,8 +1,11 @@
+/* BUBBLE SORT*/
+
 /* Algo is Push the max value to the last and repeat the same process till the whole data is sorted.
   MAIN POINT: Here leave the max values in last part of array(sorted MAX values) for condition checking.
-*/
 
-/* BUBBLE SORT*/
+  TIME COMPLEXITY: Best Case O(n), Worst case O(n2).
+  SPACE COMPLEXITY: O(1)
+*/
 
 #include <iostream>
 using namespace std;
