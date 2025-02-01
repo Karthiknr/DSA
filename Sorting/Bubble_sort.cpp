@@ -2,6 +2,7 @@
   MAIN POINT: Here leave the max values in last part of array(sorted MAX values) for condition checking.
 */
 
+/* BUBBLE SORT*/
 
 #include <iostream>
 using namespace std;
